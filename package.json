@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "generates flash cards by creating objects",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "node cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamCannon/Flashcard-Generator.git"
+  },
+  "author": "Sam Cannon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamCannon/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/SamCannon/Flashcard-Generator#readme"
+}
